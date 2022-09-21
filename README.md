@@ -23,8 +23,8 @@ I am currently in my last year as an M.S. Applied Data Science candidate at the 
 - 🔧 Software: Python libraries (NumPy, Scikit-learn, Pandas), AWS, Jupyter Notebooks, Git, Microsoft Excel, Spark, Tensorflow
 - 💡 Machine Learning: Linear/logistic regression, tree-based methods, neural networks, support vector machines, neural signal processing
 
-
+<!--
 #### Connect with me:
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-
+-->
