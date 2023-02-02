@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently in my last year as an M.S. Applied Data Science candidate at the University of Southern California. With the help of my B.S. in Neuroscience, I am passionate about using data-driven insights to decode the mysteries of the brain and advance neurotechnology to new heights 🧠.  
+I am currently in my last year as an M.S. Applied Data Science candidate at the University of Southern California. With the help of my B.S. in Neuroscience, I am passionate about using data-driven insights to decode the mysteries of the brain and advance biotechnology to new heights 🧠.  
 
 #### Tech 💻:  
 
