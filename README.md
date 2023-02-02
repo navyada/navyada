@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 I am currently in my last year as an M.S. Applied Data Science candidate at the University of Southern California. With the help of my B.S. in Neuroscience, I am passionate about using data-driven insights to decode the mysteries of the brain and advance biotechnology to new heights 🧠.  
 
+This is a brief overview of the types of projects I've worked on in the past and that I am able to share.
+
 #### Tech 💻:  
 
 - 🔧 Software: Python libraries (NumPy, Scikit-learn, Pandas), AWS, SQL, Jupyter Notebooks, Git, Microsoft Excel, Spark, Tensorflow
